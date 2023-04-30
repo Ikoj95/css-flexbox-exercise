@@ -67,12 +67,12 @@
     border: 4px solid gray;
     background: plum;
     height: 80px;
-    width: 35%;
+    flex : 2;
 }
 .short-one,.short-two{
     border: 4px solid orange;
     background: lightcoral;
     height: 80px;
-    width: 20%;
+    flex : 1;
 }
 
